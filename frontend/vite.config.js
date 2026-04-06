@@ -5,4 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  base:'/Live_Summarizer/',
 })
