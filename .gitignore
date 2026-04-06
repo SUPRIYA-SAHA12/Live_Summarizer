@@ -1,2 +1,7 @@
 
 summarizer_env/
+backend/myvenv/
+node_modules/
+.env
+__pycache__/
+*.pyc
