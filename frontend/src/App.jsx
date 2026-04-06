@@ -4,7 +4,7 @@ import ReactMarkdown from "react-markdown";
 import Upload from "./components/Upload.jsx";
 import Status from "./components/Status.jsx";
 import Result from "./components/Result.jsx";
-import SendEmail from "./components/SendEmail.jsx";
+// import SendEmail from "./components/SendEmail.jsx";
 import Recorder from "./components/Recorder.jsx";
 import './App.css';
 
